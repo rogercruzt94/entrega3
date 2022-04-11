@@ -213,7 +213,8 @@ footer.container {
           align-items: center;
 }
 
-@media (min-width: 320px) {
+@media (min-width: 320px) 
+{
   headeder {
     position: fixed;
     width: 100%;
